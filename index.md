@@ -10,7 +10,7 @@ I am currently studying Computer Science on Warsaw Politechnika.
 
 **Contact info:**
 
-[Patrykwalikwalicki@gmail.com](patrykwalikwalicki@gmail.com)
+[Email](patrykwalikwalicki@gmail.com)
 
 [Facebook](https://www.facebook.com/patryk.walicki.9)
 
