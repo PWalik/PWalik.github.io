@@ -23,21 +23,28 @@ I am currently studying Computer Science on Warsaw Politechnika.
 
 ## My projects
 
-    **[Miners vs Aliens](https://ixi.itch.io/gornicy-vs-obcy)**
-    Made in a 4 -person group during Film Jam 2017. Character-based shooter where you battle with aliens
-    as Polish Silesian Miners.
+  **[Miners vs Aliens](https://ixi.itch.io/gornicy-vs-obcy)**
+  
+  Made in a 4 -person group during Film Jam 2017. Character-based shooter where you battle with aliens
+  as Polish Silesian Miners.
 
 
-    **[Meter](https://walik.itch.io/meter)**
-    Made solo during Slavic Game Jam 2017. Action game about hacking parkmeters as a gremlin
-    to steal people's personal info.
+
+  **[Meter](https://walik.itch.io/meter)**
+  
+  Made solo during Slavic Game Jam 2017. Action game about hacking parkmeters as a gremlin
+  to steal people's personal info.
 
 
-    **[Starship](https://walik.itch.io/starship)**
-    Made solo during Slavic Game Jam 2016. 90s - inspired arcade twin stick shooter, 
-    where your main goal is to destroy every enemy planet on the level.
+
+  **[Starship](https://walik.itch.io/starship)**
+  
+  Made solo during Slavic Game Jam 2016. 90s - inspired arcade twin stick shooter, 
+  where your main goal is to destroy every enemy planet on the level.
 
 
-    **[Penguins Galore](https://globalgamejam.org/2016/games/penguins-galore)**
-    Made in a 3 -person group during Global Game Jam 2016, was a main programmer. Memory puzzle game, 
-    where you help one brave penguin fight of global warming.
+
+  **[Penguins Galore](https://globalgamejam.org/2016/games/penguins-galore)**
+  
+  Made in a 3 -person group during Global Game Jam 2016, was a main programmer. Memory puzzle game, 
+  where you help one brave penguin fight of global warming.
