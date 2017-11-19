@@ -1,7 +1,7 @@
 ## About me
 My name is Patryk Walicki, also known as Walik.
 I am a programmer and a video game developer, based in Warsaw, Poland.
-I am currently studying Computer Science on Warsaw Politechnika.
+I am currently studying Computer Science on Warsaw University of Technology.
 
 **Skills**
 - Unity3D/C#
