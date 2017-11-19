@@ -20,6 +20,10 @@ I am currently studying Computer Science on Warsaw Politechnika.
 
 [Itch.io](https://walik.itch.io/)
 
+[Github](github.com/PWalik)
+
+[Bitbucket](https://bitbucket.org/Walik/)
+
 
 ## My projects
 
