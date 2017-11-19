@@ -36,6 +36,7 @@ I am currently studying Computer Science on Warsaw Politechnika.
 
 
 
+
   **[Meter](https://walik.itch.io/meter)**
   
   ![Meter](Images/meter.png)
@@ -45,12 +46,14 @@ I am currently studying Computer Science on Warsaw Politechnika.
 
 
 
+
   **[Starship](https://walik.itch.io/starship)**
   
   ![Startship](Images/star.png)
   
   Made solo during Slavic Game Jam 2016. 90s - inspired arcade twin stick shooter, 
   where your main goal is to destroy every enemy planet on the level.
+
 
 
 
