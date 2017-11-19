@@ -14,6 +14,8 @@ I am currently studying Computer Science on Warsaw Politechnika.
 
 [Facebook](https://www.facebook.com/patryk.walicki.9)
 
+[Twitter](https://twitter.com/PatWalik)
+
 **My profiles all over the internet**
 
 [LinkedIn](https://www.linkedin.com/in/patryk-walicki-7b9426153/)
