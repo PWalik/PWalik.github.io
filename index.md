@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## About me
+My name is Patryk Walicki, also known as Walik.
+I am a programmer and a video game developer, based in Warsaw, Poland.
+I am currently studying Computer Science on Warsaw Politechnika.
 
-You can use the [editor on GitHub](https://github.com/PWalik/PWalik.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Skills**
+- Unity3D/C#
+- C++
+- Git
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Contact info:**
+[Patrykwalikwalicki@gmail.com](patrykwalikwalicki@gmail.com)
+[Facebook](https://www.facebook.com/patryk.walicki.9)
 
-### Markdown
+**My profiles all over the internet**
+[LinkedIn] (https://www.linkedin.com/in/patryk-walicki-7b9426153/)
+[Itch.io] (https://walik.itch.io/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## My projects
+**[Miners vs Aliens] (https://ixi.itch.io/gornicy-vs-obcy)**
+Made in a 4 -person group during Film Jam 2017. Character-based shooter where you battle with aliens
+as Polish Silesian Miners.
 
-# Header 1
-## Header 2
-### Header 3
+**[Meter] (https://walik.itch.io/meter)**
+Made solo during Slavic Game Jam 2017. Action game about hacking parkmeters as a gremlin
+to steal people's personal info.
 
-- Bulleted
-- List
+**[Starship] (https://walik.itch.io/starship)**
+Made solo during Slavic Game Jam 2016. 90s - inspired arcade twin stick shooter, 
+where your main goal is to destroy every enemy planet on the level.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PWalik/PWalik.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**[Penguins Galore] (https://globalgamejam.org/2016/games/penguins-galore)**
+Made in a 3 -person group during Global Game Jam 2016, was a main programmer. Memory puzzle game, 
+where you help one brave penguin fight of global warming.
