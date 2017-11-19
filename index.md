@@ -31,7 +31,7 @@ I am currently studying Computer Science on Warsaw Politechnika.
   
   ![Miners](Images/miners.png)
   
-  Made in a 4 -person group during Film Jam 2017. Character-based shooter where you battle with aliens
+  Made in a 4 -person group during Film Jam 2017, was a gameplay programmer. Character-based shooter where you battle with aliens
   as Polish Silesian Miners.
 
 
