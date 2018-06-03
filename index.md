@@ -1,7 +1,7 @@
 ## About me
 My name is Patryk Walicki, also known as Walik.
 I am a programmer and a video game developer, based in Warsaw, Poland.
-I am currently studying Computer Science on Warsaw University of Technology.
+I am currently studying Computer Science at Warsaw University of Technology.
 
 **Skills**
 - Unity3D/C#
@@ -76,4 +76,4 @@ I am currently studying Computer Science on Warsaw University of Technology.
   ![Startship](Images/peng.png)
   
   Made in a 3 -person group during Global Game Jam 2016, was a main programmer. Memory puzzle game, 
-  where you help one brave penguin fight of global warming.
+  where you help one brave penguin fight global warming.
