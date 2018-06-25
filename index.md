@@ -22,7 +22,7 @@ I am currently studying Computer Science at Warsaw University of Technology.
 
 [Itch.io](https://walik.itch.io/)
 
-[Github](github.com/PWalik)
+[Github](https://github.com/PWalik)
 
 [Bitbucket](https://bitbucket.org/Walik/)
 
