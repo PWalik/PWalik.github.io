@@ -7,6 +7,8 @@ I am currently studying Computer Science at Warsaw University of Technology.
 - Unity3D/C#
 - C++
 - Git
+- SQL
+- Java
 
 **Contact info:**
 
