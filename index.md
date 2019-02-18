@@ -31,7 +31,38 @@ I am currently studying Computer Science at Warsaw University of Technology.
 
 
 
-  **[Vapor Run ず暗キ](https://walik.itch.io/vapor-run-)**
+**[NegaSpace](https://walik.itch.io/negaspace)**
+  
+  ![Nega](Images/nega.png)
+  
+ Made solo for Warsaw Film Jam 2018, the goal is to switch dimensions to avoid incoming projectiles.
+
+
+
+
+**[KOMPOTition](https://walik.itch.io/kompotition)**
+  
+  ![Kompot](Images/kompot.png)
+  
+ Made solo for Slavic Game Jam 2018. Gather up fruits for delicious kompot in this classic ELEKTRONIKA style game.
+
+
+
+
+
+
+
+
+**[Who Wants To Rage?](https://walik.itch.io/who-wants-to-rage)**
+  
+  ![Rage](Images/rage.png)
+  
+ Made solo during the Zero Words Game Jam. Gather orbs in a popular TV show, but watch out - the controls seem... weird?
+
+
+
+
+**[Vapor Run ず暗キ](https://walik.itch.io/vapor-run-)**
   
   ![Vapor](Images/vapor.png)
   
@@ -41,7 +72,7 @@ I am currently studying Computer Science at Warsaw University of Technology.
 
 
 
-  **[Miners vs Aliens](https://ixi.itch.io/gornicy-vs-obcy)**
+**[Miners vs Aliens](https://ixi.itch.io/gornicy-vs-obcy)**
   
   ![Miners](Images/miners.png)
   
@@ -51,7 +82,8 @@ I am currently studying Computer Science at Warsaw University of Technology.
 
 
 
-  **[Meter](https://walik.itch.io/meter)**
+
+**[Meter](https://walik.itch.io/meter)**
   
   ![Meter](Images/meter.png)
   
@@ -61,7 +93,8 @@ I am currently studying Computer Science at Warsaw University of Technology.
 
 
 
-  **[Starship](https://walik.itch.io/starship)**
+
+**[Starship](https://walik.itch.io/starship)**
   
   ![Startship](Images/star.png)
   
@@ -71,7 +104,8 @@ I am currently studying Computer Science at Warsaw University of Technology.
 
 
 
-  **[Penguins Galore](https://globalgamejam.org/2016/games/penguins-galore)**
+
+**[Penguins Galore](https://globalgamejam.org/2016/games/penguins-galore)**
   
   ![Startship](Images/peng.png)
   
