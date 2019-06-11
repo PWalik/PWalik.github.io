@@ -9,6 +9,8 @@ I am currently studying Computer Science at Warsaw University of Technology.
 - Git
 - SQL
 - Java
+- Javascript
+- Python
 
 **Contact info:**
 
@@ -30,6 +32,14 @@ I am currently studying Computer Science at Warsaw University of Technology.
 
 
 ## My projects
+
+
+**[Oil Pirate](https://walik.itch.io/oil-pirate)**
+  
+  ![Oil](Images/oil.png)
+  
+ Made solo for Ludum Dare 44, explore, fight and survive in 3 distinct game modes.
+
 
 
 
